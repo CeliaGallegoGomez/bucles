@@ -103,7 +103,8 @@ twoNums(2, 12);
 const randomNumbers = (nums)=>{
   const array1=[];
   const array2=[];
-  
+
+  if 
 }
 
 randomNumbers ([])
