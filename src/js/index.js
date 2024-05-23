@@ -29,7 +29,7 @@ for (let counter = 10; counter >= 0; counter--) {
 // - Crea una función que reciba un array de 10 números e imprima por consola la suma de todos los valores del array.
 
 const numbers [1,2,3,4,5,6,7,8,9,10] {
-    for (let counter= );
+    for (let counter=);
 };
 
 
